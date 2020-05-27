@@ -6,3 +6,9 @@
 
 * The color can be changed dynamically as well to create multi color pixel art.
 
+** Technology used **
+
+* HTML
+* CSS
+* JavaScript
+
